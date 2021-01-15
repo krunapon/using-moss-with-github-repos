@@ -20,8 +20,10 @@ done < "$input"
 Example of repos.txt
 
 
-Example of running this script
-% clone_githubs.sh repos.txt
+Example of running this script\
+```
+clone_githubs.sh repos.txt
+```
 
 
 
