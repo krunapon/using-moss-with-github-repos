@@ -42,3 +42,5 @@ Where ``username@domain`` is your email address.
 ```
 find . -name filename.java -exec moss {} +
 ```
+![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/sample-start-check-java-files.png)
+![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/sample-finish-check-java-files.png)
