@@ -18,7 +18,7 @@ done < "$input"
 ```
 
 Example of repos.txt
-
+![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/repos-sample.png)
 
 Example of running this script\
 ```
