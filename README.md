@@ -44,3 +44,6 @@ find . -name filename.java -exec moss {} +
 ```
 ![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/sample-start-check-java-files.png)
 ![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/sample-finish-check-java-files.png)
+
+Then, we can click at the URL to check the comparison result
+![alt text](https://github.com/krunapon/using-moss-with-github-repos/blob/main/images/moss-result.png)
