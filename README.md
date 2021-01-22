@@ -3,7 +3,7 @@
 How to use moss to check plagiarism of students' Java files in GitHub repositories
 ==================================================================================
 
-Moss[http://theory.stanford.edu/~aiken/moss/] (Measure of Software Similarity)
+[Moss(Measure of Software Similarity)](http://theory.stanford.edu/~aiken/moss/)
 is a service that is used to check for plagiarism of programming codes
 
 1. Using this script (clone_githubs.sh) to clone all repositories in a file (eg, repos.txt) to a single directory
